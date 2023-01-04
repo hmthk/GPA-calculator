@@ -1,0 +1,1 @@
+The GPA calculator is a application written in Python. This app provides weighted GPA calculation and needed average GPA in the following courses to achieve a certain GPA. This app is especially designed for HKPolyU students.
